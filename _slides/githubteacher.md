@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Slide for @githubteacher
+title: Slide for Eric
 ---
 
 :dumpster-fire:
