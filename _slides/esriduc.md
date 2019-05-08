@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Slide for @esriduc
+title: Slide to the side
 ---
 
 Feeling cute, may commit this change later IDK
