@@ -4,3 +4,4 @@ title: Slide for @nommuna
 ---
 
 Hello :blush:
+Money :moneybag:
