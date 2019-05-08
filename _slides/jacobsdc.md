@@ -1,6 +1,9 @@
 ---
 layout: slide
-title: Slide for @jacobsdc
+title: Slide for David
 ---
 
-Replace this line with your favorite meme.
+Did you know you were named after George Washington?
+Since he was named before you... you were named after him... 🎉 🎉 #dadjokes
+
+Mind = blown. Another fun fact please!!!!
