@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Slide to the side
+Add an emoji.
 ---
 
 Feeling cute, may commit this change later IDK
