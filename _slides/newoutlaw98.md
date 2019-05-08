@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: Slide for @newoutlaw98
+title: Slide for kunal
 ---
 
-Replace this line with your favorite meme.
+The first rule of GitHub.
+:fire::fire::fire:
