@@ -3,4 +3,5 @@ layout: slide
 title: Slide for @nidhikutest
 ---
 
-Replace this line with your favorite meme.
+Learning Github is fun.
+Should have eaten smaller lunch. 
