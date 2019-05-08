@@ -1,6 +1,10 @@
 ---
 layout: slide
-title: Slide for @bababu
+title: Slide for @bababu change here
 ---
 
-Replace this line with your favorite meme.
+<<<<<<< HEAD
+hahahahah woolaa. change local account
+=======
+haha woolaa.
+>>>>>>> 8d95ddf301041c92a0b7752310097f8765e24eb6
