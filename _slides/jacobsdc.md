@@ -3,4 +3,4 @@ layout: slide
 title: Slide for @jacobsdc
 ---
 
-Replace this line with your favorite meme.
+Did you know you were named after George Washington?
