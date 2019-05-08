@@ -4,4 +4,4 @@ Add an emoji.
 ---
 
 Feeling cute, may commit this change later IDK
-:beer:
+:beer: :coffee:
