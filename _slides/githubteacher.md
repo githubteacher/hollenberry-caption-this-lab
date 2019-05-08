@@ -1,6 +1,8 @@
 ---
 layout: slide
-title: Slide for @githubteacher
+title: Slide for Eric
 ---
 
-Replace this line with your favorite meme.
+:wastebasket::fire:
+
+![](https://media.giphy.com/media/6wpHEQNjkd74Q/giphy.gif)
