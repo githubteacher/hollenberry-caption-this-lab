@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: Slide for @esriduc
+Add an emoji.
 ---
 
-Replace this line with your favorite meme.
+Feeling cute, may commit this change later IDK
+:beer: :coffee:
